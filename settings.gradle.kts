@@ -1,3 +1,4 @@
+include(":feature_extra")
 pluginManagement {
     repositories {
         gradlePluginPortal()

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:dist="http://schemas.android.com/apk/res/android"
+    package="com.igorwojda.showcase.feature.extra">
+
+    <dist:module
+        dist:instant="false"
+        dist:onDemand="false"
+        dist:title="@string/feature_extra">
+        <dist:fusing dist:include="false" />
+    </dist:module>
+
+</manifest>
